@@ -1,0 +1,6 @@
+dict={'a':100,'b':200,'c':300}
+val=dict.values()
+if i in val:
+  print("Value exist in dictionary")
+else:
+  print("Value not exist in dictionary")
