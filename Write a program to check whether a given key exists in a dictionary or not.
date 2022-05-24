@@ -1,0 +1,6 @@
+dict={'0':1,'1':2,'2':3}
+x= print("enter a value to check:")
+if x in dict.keys():
+  print("TRUE")
+else:
+  print("FALSE")
